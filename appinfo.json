@@ -1,0 +1,40 @@
+{
+  "uuid": "b8fae00e-4155-4d25-acbe-a4418613b60f",
+  "shortName": "MoogleTime",
+  "longName": "MoogleTime SDK2",
+  "companyName": "Allan175",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+        {
+            "name": "IMAGE_MOG_DEAD",
+            "type": "png",
+            "file": "images/mog_watchface3.png"
+        },
+        {
+            "name": "IMAGE_MOG_HURT",
+            "type": "png",
+            "file": "images/mog_watchface2.png"
+        },
+        {
+            "name": "IMAGE_MOG_OK",
+            "type": "png",
+            "file": "images/mog_watchface1.png"
+        },
+        {
+            "name": "FONT_FFVI_40",
+            "type": "font",
+            "file": "fonts/FFVI_40.ttf"
+        }
+    ]
+  }
+}
